@@ -7,7 +7,8 @@ const FLATS = [
     pokoje: "5",
     pietro: "0",
     Budynek: "A",
-    Lokal_str: "A35"
+    Lokal_str: "A35",
+    typ: "Mieszkanie"
   },
   {
     lokal: "53",
@@ -17,7 +18,8 @@ const FLATS = [
     pokoje: "4",
     pietro: "0",
     Budynek: "A",
-    Lokal_str: "A53"
+    Lokal_str: "A53",
+    typ: "Mieszkanie"
   },
   {
     lokal: "3",
@@ -27,7 +29,8 @@ const FLATS = [
     pokoje: "2",
     pietro: "0",
     Budynek: "A",
-    Lokal_str: "A3"
+    Lokal_str: "A3",
+    typ: "Mieszkanie"
   },
   {
     lokal: "34",
@@ -37,7 +40,8 @@ const FLATS = [
     pokoje: "1",
     pietro: "0",
     Budynek: "A",
-    Lokal_str: "A34"
+    Lokal_str: "A34",
+    typ: "Mieszkanie"
   },
   {
     lokal: "52",
@@ -47,7 +51,8 @@ const FLATS = [
     pokoje: "1",
     pietro: "0",
     Budynek: "A",
-    Lokal_str: "A52"
+    Lokal_str: "A52",
+    typ: "Mieszkanie"
   },
   {
     lokal: "6",
@@ -57,7 +62,8 @@ const FLATS = [
     pokoje: "3",
     pietro: "1",
     Budynek: "A",
-    Lokal_str: "A6"
+    Lokal_str: "A6",
+    typ: "Mieszkanie"
   },
   {
     lokal: "56",
@@ -67,7 +73,8 @@ const FLATS = [
     pokoje: "2",
     pietro: "1",
     Budynek: "A",
-    Lokal_str: "A56"
+    Lokal_str: "A56",
+    typ: "Mieszkanie"
   },
   {
     lokal: "76",
@@ -77,7 +84,8 @@ const FLATS = [
     pokoje: "4",
     pietro: "1",
     Budynek: "A",
-    Lokal_str: "A76"
+    Lokal_str: "A76",
+    typ: "Mieszkanie"
   },
   {
     lokal: "39",
@@ -87,7 +95,8 @@ const FLATS = [
     pokoje: "3",
     pietro: "2",
     Budynek: "A",
-    Lokal_str: "A39"
+    Lokal_str: "A39",
+    typ: "Mieszkanie"
   },
   {
     lokal: "57",
@@ -97,7 +106,8 @@ const FLATS = [
     pokoje: "2",
     pietro: "2",
     Budynek: "A",
-    Lokal_str: "A57"
+    Lokal_str: "A57",
+    typ: "Mieszkanie"
   },
   {
     lokal: "38",
@@ -107,7 +117,8 @@ const FLATS = [
     pokoje: "4",
     pietro: "2",
     Budynek: "A",
-    Lokal_str: "A38"
+    Lokal_str: "A38",
+    typ: "Mieszkanie"
   },
   {
     lokal: "23",
@@ -117,7 +128,8 @@ const FLATS = [
     pokoje: "3",
     pietro: "3",
     Budynek: "A",
-    Lokal_str: "A23"
+    Lokal_str: "A23",
+    typ: "Mieszkanie"
   },
   {
     lokal: "20",
@@ -127,7 +139,8 @@ const FLATS = [
     pokoje: "2",
     pietro: "3",
     Budynek: "A",
-    Lokal_str: "A20"
+    Lokal_str: "A20",
+    typ: "Mieszkanie"
   },
   {
     lokal: "21",
@@ -137,7 +150,8 @@ const FLATS = [
     pokoje: "4",
     pietro: "3",
     Budynek: "A",
-    Lokal_str: "A21"
+    Lokal_str: "A21",
+    typ: "Mieszkanie"
   },
   {
     lokal: "27",
@@ -147,7 +161,8 @@ const FLATS = [
     pokoje: "3",
     pietro: "4",
     Budynek: "A",
-    Lokal_str: "A27"
+    Lokal_str: "A27",
+    typ: "Mieszkanie"
   },
   {
     lokal: "29",
@@ -157,7 +172,8 @@ const FLATS = [
     pokoje: "2",
     pietro: "4",
     Budynek: "A",
-    Lokal_str: "A29"
+    Lokal_str: "A29",
+    typ: "Mieszkanie"
   },
   {
     lokal: "28",
@@ -167,7 +183,8 @@ const FLATS = [
     pokoje: "4",
     pietro: "4",
     Budynek: "A",
-    Lokal_str: "A28"
+    Lokal_str: "A28",
+    typ: "Mieszkanie"
   },{
     lokal: "26",
     metraz: "177.42",
@@ -176,7 +193,8 @@ const FLATS = [
     pokoje: "3",
     pietro: "2",
     Budynek: "A",
-    Lokal_str: "A26"
+    Lokal_str: "A26",
+    typ: "Mieszkanie"
   },
   {
     lokal: "25",
@@ -186,7 +204,8 @@ const FLATS = [
     pokoje: "2",
     pietro: "4",
     Budynek: "A",
-    Lokal_str: "A25"
+    Lokal_str: "A25",
+    typ: "Mieszkanie"
   },
   {
     lokal: "101",
@@ -196,7 +215,8 @@ const FLATS = [
     pokoje: "2",
     pietro: "1",
     Budynek: "A",
-    Lokal_str: "A101"
+    Lokal_str: "A101",
+    typ: "Mieszkanie"
   },
   {
     lokal: "101",
@@ -206,7 +226,8 @@ const FLATS = [
     pokoje: "2",
     pietro: "1",
     Budynek: "B",
-    Lokal_str: "B101"
+    Lokal_str: "B101",
+    typ: "Mieszkanie"
   },
 ];
 
