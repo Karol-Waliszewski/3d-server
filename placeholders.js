@@ -212,8 +212,8 @@ const FLATS = [
     metraz: "45.42",
     status: "Zarezerwowane",
     cena: "977000.8",
-    pokoje: "2",
-    pietro: "1",
+    pokoje: "4",
+    pietro: "-1",
     Budynek: "A",
     Lokal_str: "A101",
     typ: "Mieszkanie"
